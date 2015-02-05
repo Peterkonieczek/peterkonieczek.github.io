@@ -32,7 +32,7 @@ body {
 	position: relative;
 	
 .options ul {
-	display: inline-block;
+	display: inline;
 }
 
 .options ul li {
@@ -43,7 +43,7 @@ body {
 	overflow: hidden;
 	position: relative;
 	
-	display: inline-block;
+	display: inline;
 	
 	border-radius:100px;
 }

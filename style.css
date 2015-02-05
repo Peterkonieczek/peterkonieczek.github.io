@@ -31,6 +31,19 @@ body {
 	margin: 0 auto;
 	position: relative;
 	
-table {
-	width: 100%;
+.options ul {
+	display: inline-block;
+}
+
+.options ul li {
+	width: 150px;
+	height: 150px;
+	
+	margin: 6px;
+	overflow: hidden;
+	position: relative;
+	
+	display: inline-block;
+	
+	border-radius:100px;
 }

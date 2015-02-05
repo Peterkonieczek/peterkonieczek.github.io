@@ -8,7 +8,8 @@ body {
 
 
 .container {
-	color: blue;
+	background-color: blue;
+	opacity: 80%;
 	width: 100%;
 	heigth: 15%;
 	margin-top: 60%;

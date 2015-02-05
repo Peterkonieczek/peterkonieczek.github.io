@@ -4,13 +4,14 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  z-index: -1;
 }
 
 
 .container {
 	background-color: blue;
-	position: relative;
 	width: 100%;
 	margin-top: 60%;
 	margin-bottom: 10%
+	z-index: 0;
 }

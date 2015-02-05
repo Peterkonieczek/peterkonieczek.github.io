@@ -3,8 +3,8 @@ body {
 	
 	margin: 0 0;
 	padding: 0 0;
-	background: url(images/sunset.jpg) no-repeat center center fixed !important; 
-    background-attachment: fixed;
+	background: url(images/sunset.jpg) no-repeat center center fixed; 
+    background-attachment: relative;
 }
 
 

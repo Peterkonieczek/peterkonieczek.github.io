@@ -1,8 +1,16 @@
-
 body { 
   background: url(images/sunset.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+
+.container {
+	width: 100%;
+	heigth: 15%;
+	margin-top: 60%;
+	margin-bottom: 10%
+	position: fixed;
 }

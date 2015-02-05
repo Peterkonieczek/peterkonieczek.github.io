@@ -9,6 +9,7 @@ body {
 
 .container {
 	background-color: blue;
+	position: relative;
 	width: 100%;
 	margin-top: 60%;
 	margin-bottom: 10%

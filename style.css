@@ -1,4 +1,8 @@
-body {
-	background-image: url("images/sunset.jpg");
-	background-size: 500px 500px;
+
+body { 
+  background: url(images/sunset.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }

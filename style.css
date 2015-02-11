@@ -68,3 +68,32 @@ body {
 p {
 	text-align: center;
 }
+
+/* image placement w3schools */
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid #444;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 2px solid #444;
+}
+
+div.img a:hover img {
+    border: 2px solid #968708;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 300px;
+  margin: 5px;
+}

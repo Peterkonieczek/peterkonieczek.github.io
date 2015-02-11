@@ -9,7 +9,6 @@ html {
 
 body { 
 	height: 100%;
-	
 	margin: 0 0;
 	padding: 0 0;
 
@@ -30,7 +29,8 @@ body {
 	position: relative;
 	opacity: 0.4;
 	
-.options {
+.li {
+	display: inline;
 	list-style-type: none;
 
 }

@@ -17,12 +17,11 @@ body {
 
 
 .navbar {
-	background-color: #f08b26;
+	background-color: grey;
 
 	width: 100%;
-	height: 120px;
+	height: 700px;
 	position: fixed;
-	margin-top: 500px;
 	
 }
 

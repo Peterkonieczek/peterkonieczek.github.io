@@ -1,5 +1,5 @@
 html {
-	background: url(images/sunset.jpg);
+	background: url(images/achtergrond_hout.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -14,14 +14,25 @@ body {
 
 }
 
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	dislplay: inline-block;
+	width: 60px;
+}
+
 .navbar {
 	background-color: grey;
 	width: 100%;
 	height: 120px;
 	position: fixed;
+	display: inline;
 	
 }
-
 
 .container {
 	width: 900px;

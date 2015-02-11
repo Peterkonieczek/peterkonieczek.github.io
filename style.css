@@ -29,16 +29,10 @@ body {
 	position: relative;
 	opacity: 0.4;
 	
-#li {
+#options {
 	display: inline;
 	list-style-type: none;
+	padding-right: 10px;
 
-}
-
-#navlist li
-{
-display: inline;
-list-style-type: none;
-padding-right: 20px;
 }
 

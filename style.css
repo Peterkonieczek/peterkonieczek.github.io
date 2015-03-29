@@ -80,6 +80,7 @@ div.img {
     margin: 5px;
     padding: 5px;
 
+	margin: 0 auto;
     height: auto;
     width: auto;
     float: left;
@@ -98,6 +99,7 @@ div.img img {
     margin-left: auto;
     margin-right: auto;
 
+	margin: 0 auto;
     border: 2px solid #444;
 }
 
@@ -134,3 +136,4 @@ div.desc {
     position: absolute;
     top: 0;
 }
+

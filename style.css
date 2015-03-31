@@ -16,6 +16,7 @@ body {
 }
 
 /* Navbar from css-snippets website */
+/* http://css-snippets.com/simple-horizontal-navigation */
 
 .nav ul {
 	list-style-type: none;
@@ -75,6 +76,8 @@ p {
 }
 
 /* image placement w3schools */
+/* http://www.w3schools.com/css/css_image_gallery.asp */
+
 
 div.img {
     margin: 5px;
